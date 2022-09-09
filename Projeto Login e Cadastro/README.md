@@ -1,21 +1,21 @@
-<h1>Projeto | Artes urbanas</h1>
+<h1>Projeto | Tela de Login e Cadastro</h1>
 
 <h2>Demonstração</h2>
 <div align="center">
-  <img width="600" src="./arts_urbanas.png"/>
+  <img width="600" src="./login.png"/>
 </div>
 
 <h2>Descrição</h2>
-<p>Primeiro projeto realizado do curso de Bootstrap 5 | Udemy, ministrado pelo professor <a href="https://github.com/matheusbattisti">Matheus Battisti</a></p>
+<p>Projeto realizado do curso de Bootstrap 5 | Udemy, ministrado pelo professor <a href="https://github.com/matheusbattisti">Matheus Battisti</a></p>
 
 <h2>Aprendizado</h2>
 <p>Conhecimentos obtidos com o projeto:</p>
 <ul>
-  <li>- Layouts com Bootstrap</li>
-  <li>- Sobre os Breakpoints</li>
-  <li>- Como utilizar o grid</li>
-  <li>- Classes importantes para estrutura</li>
-  <li>- A poderosa biblioteca de ícones, Bootstrap Icons</li>
+  <li>- Elementos de conteúdo</li>
+  <li>- Imagem fluid</li>
+  <li>- Formulários</li>
+  <li>- Inputs, Label e suas classes</li>
+  <li>- Validações com Bootstrap</li>
 </ul>
 
 <h2>Instalação</h2>
@@ -26,7 +26,7 @@
 </ul>
 
 <div style="display: flex">
-  <div style="max-width: 45%">
+  <div style="width: 45%">
     <h2>Stack Utilizada</h2>
     <div style="display: inline_block"><br>
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -41,7 +41,7 @@
     </div>
   </div>
 
-  <div style="max-width: 45%">
+  <div style="width: 45%">
     <h2>Outros</h2>
     <div style="display: inline_block"><br>
       <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />

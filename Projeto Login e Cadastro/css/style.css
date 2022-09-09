@@ -1,0 +1,84 @@
+:root{
+    --tc-label: #ccc;
+    --tc-hover: #6C63FF;
+    --tc-link: #222;
+    --tc-checkbox: #222;
+    
+    --bc-input: #ccc;
+    
+    --bg-button: #6C63FF;
+    --bg-white: #fff;
+    --bg-body: #F8F8F8;
+}
+body{
+    background-color: var(--bg-body);
+}
+#container-login{
+    background-color: #FFF;
+    border-radius: 20px;
+    box-shadow: 0.5px 10px 15px rgb(0 0 0 / 20%);
+    margin: 25px auto;
+    padding: 25px;
+}
+#container-login a{
+    color: var(--tc-link);
+    transition: color .5s;
+    margin-top: 50px;
+    text-align: center;
+    display: block;
+}
+#container-login a:hover{
+    color: var(--tc-hover);
+}
+#login{
+    border: initial;
+    padding: initial;
+}
+#login input[type=text],
+#login input[type=email],
+#login input[type=password]{
+    border: initial;
+    border-radius: initial;
+    border-bottom: 1px solid var(--bc-input);
+}
+#login input:focus{
+    box-shadow: initial;
+}
+#login label{
+    color: var(--tc-label);
+}
+.container-form{
+    margin-bottom: 50px;
+}
+.container-form h2{
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+.form-btn{
+    width: 100%;
+    background-color: var(--bg-button);
+    border-color: var(--bg-button);
+    transition: background .3s;
+}
+.form-btn:hover{
+    background-color: var(--bg-white);
+    border-color: var(--bg-button);
+    color: var(--tc-hover);
+}
+/*Tela de Cadastro*/
+#checkbox-container label{
+    color: var(--tc-checkbox);
+}
+#checkbox-container a.terms-link{
+    display: initial;
+}
+
+@media(min-width: 768px) {
+    #container-login {
+      margin: 50px auto;
+      padding: 50px;
+    }
+    .form-btn{
+        width: auto;
+    }
+  }
