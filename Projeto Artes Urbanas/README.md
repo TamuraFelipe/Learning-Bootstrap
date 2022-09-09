@@ -38,6 +38,12 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
+<h2>Outros</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
 <h2>Contatos</h2>
 <div>
     <a href="https://www.linkedin.com/in/felipe-diego-tamura/" target="_blank">
