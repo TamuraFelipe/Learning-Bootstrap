@@ -25,7 +25,8 @@
   <li>- Abra o arquivo index.html no seu navegador de preferência</li>
 </ul>
 
-<div style="max-width: 45%;">
+<div style="display: flex">
+  <div style="max-width: 45%">
   <h2>Stack Utilizada</h2>
   <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,12 +41,13 @@
   </div>
 </div>
 
-<div style="max-width: 45%;">
+<div style="max-width: 45%">
   <h2>Outros</h2>
   <div style="display: inline_block"><br>
     <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
+</div>
 </div>
 
 <h2>Contatos</h2>
