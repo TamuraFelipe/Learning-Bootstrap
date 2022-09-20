@@ -11,19 +11,19 @@
 <h2>Aprendizado</h2>
 <p>Conhecimentos obtidos com o projeto:</p>
 <ul>
-  <li>- O que são componentes Bootstrap?</li>
-  <li>- Componente Navbar</li>
-  <li>- Componente Carousel</li>
-  <li>- Componentes Cards</li>
-  <li>- Com o projeto, pude colocar em prática todo material teórico do curso.</li>
+  <li>O que são componentes Bootstrap?</li>
+  <li>Componente Navbar</li>
+  <li>Componente Carousel</li>
+  <li>Componentes Cards</li>
+  <li>Com o projeto, pude colocar em prática todo material teórico do curso.</li>
 </ul>
 
 <h2>Instalação</h2>
-<ul>
-  <li>- Faça o Download do repositório</li>
-  <li>- Descompacte o arquivo</li>
-  <li>- Abra o arquivo index.html no seu navegador de preferência</li>
-</ul>
+<ol>
+  <li>Faça o Download do repositório</li>
+  <li>Descompacte o arquivo</li>
+  <li>Abra o arquivo index.html no seu navegador de preferência</li>
+</ol>
 
 <h2>Stack Utilizada</h2>
 <div style="display: inline_block"><br>
