@@ -6,7 +6,7 @@
 </div>
 
 <h2>Descrição</h2>
-<p>Primeiro projeto realizado do curso de Bootstrap 5 | Udemy, ministrado pelo professor <a href="https://github.com/matheusbattisti">Matheus Battisti</a></p>
+<p>Terceiro projeto realizado do curso de Bootstrap 5 | Udemy, ministrado pelo professor <a href="https://github.com/matheusbattisti">Matheus Battisti</a></p>
 
 <h2>Aprendizado</h2>
 <p>Conhecimentos obtidos com o projeto:</p>
